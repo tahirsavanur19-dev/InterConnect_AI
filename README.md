@@ -117,14 +117,10 @@ InterConnect_AI/
 │       ├── final_pred.py
 │       ├── cnn8grps_rad1_model.h5
 ├── frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── DataFetcher.js
-│   │   └── App.css
-│
-├── sign_language_module/
-│   ├── final_pred.py
-│   ├── cnn8grps_rad1_model.h5
+│   └── src/
+│       ├── App.js
+│       ├── DataFetcher.js
+│       └── App.css 
 │
 ├── assets/
 ├── README.md
