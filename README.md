@@ -179,6 +179,9 @@ Pending:
 * Full Integration of Sign Language Module with Web Interface
 * Deployment & Optimization
 
+
+⚠️ This repository is temporarily unavailable due to technical issues during project migration and file organization.
+
 ---
 
 ## 📌 Note
