@@ -68,7 +68,7 @@ The system integrates Speech-to-Text (STT), Text-to-Speech (TTS), multilingual t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/InterConnect_AI.git
+git clone https://github.com/tahirsavanur19-dev/InterConnect_AI 
 ```
 
 ### 2. Move into project folder
